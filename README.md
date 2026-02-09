@@ -9,7 +9,7 @@
 - **Language:** Python
 - **Algorithm:** Random Forest Classifier
 - **Data Processing:** Pandas, Scikit-learn (Applied Anomaly Detection Logic)
-
+Chosen for its high interpretability and stability in handling small-to-medium security datasets.
 ## 3. Key Result
 - **Detection Rate:** **90%+** (Classified Normal vs. Attacks)
 - **Insight:** The results suggest that industrial anomaly detection logic can be effectively applied to security log analysis.

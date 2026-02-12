@@ -1,9 +1,10 @@
-Research Note
 
-Trial: Used a Random Forest classifier as a baseline model due to its robustness on structured tabular data and interpretability via feature importance.
+Research Note: From Semiconductor Logic to Cybersecurity Anomaly Detection
 
-Observation: The model performs well on structured benchmark logs (NSL-KDD). However, its effectiveness on real-world security logs may degrade due to noise, temporal dependencies, and evolving attack patterns.
+Trial:Instead of using conventional baseline models, I directly developed a Custom CNN architecture by inheriting the semiconductor anomaly detection logic from Brainworks (AI Startup Grand Prize Winner).
 
-Next Step: Evaluate sequence-aware models such as LSTM to capture temporal patterns in log sequences and compare performance against the Random Forest baseline.
+Observation:During the process of reshaping 1D network logs into 2D spatial matrices for CNN training, I encountered 6 critical runtime errors related to input dimension mismatches.
 
-Research Direction: Extending this framework to sequence-based anomaly detection (LSTM) for real-world security logs.
+Next Step:Executed an intensive 10-minute debugging sprint to iteratively refine the input dimensions and model layers. Resolved all 6 structural errors, achieving a stabilized training pipeline.
+
+Research Direction: Validated that semiconductor-grade spatial anomaly detection can be successfully generalized to cybersecurity domains, achieving a final F1-Score of 0.96

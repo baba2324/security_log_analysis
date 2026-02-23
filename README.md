@@ -1,4 +1,18 @@
 # 🛡️ AI-Based Security Log Anomaly Detection
+# 🚀 [Version 2.0] Advanced AI Security Detection System
+*Upgraded to the latest CIC-IDS2017 dataset for maximized detection rate.*
+
+## 📊 Latest Analysis Summary
+- **Target**: PortScan Attack Detection
+- **Model**: RandomForest Classifier
+- **Final Accuracy**: **99.99%**
+- **Key Evidence**: Successfully identified primary entry points (Destination Port 46, Port 20).
+
+---
+
+# 📜 [Version 1.0] Initial Analysis Record
+*(The following is the legacy KDD dataset analysis. The system has been upgraded to Version 2.0 above based on these foundational logs.)*
+
 
 ## Overview
 This project applies industrial anomaly detection methodologies to cybersecurity by building a deep learning-based security log anomaly detection model.

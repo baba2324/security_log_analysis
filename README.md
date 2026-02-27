@@ -16,7 +16,11 @@
 - **Cross-Industry Expansion**: Aiming to enhance security for next-generation autonomous systems and global industrial IoT platforms
 
 ## 👤 Contact / About Me
+ 
+## 👤 Contact / About Me
 - **Industrial AI & Cybersecurity Specialist**
+- **Email**: ddd567640@gmail.com
+- **University**: Soonchunhyang University (Information Security)
 
 ---
 ### 📈 Analysis Evidence 

@@ -1,3 +1,6 @@
+[<image-card alt="License: Apache 2.0" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" ></image-card>](https://opensource.org/licenses/Apache-2.0)
+[<image-card alt="Python" src="https://img.shields.io/badge/Python-3.x-blue" ></image-card>](https://www.python.org/)
+
 # 🛡️ AI-Based Security Log Anomaly Detection
 # 🚀 [Version 2.0] Advanced AI Security Detection System
 *Upgraded to the latest CIC-IDS2017 dataset for maximized detection rate.*

@@ -20,6 +20,8 @@
 ## 👤 Contact / About Me
 - **Industrial AI & Cybersecurity Specialist**
 - **Email**: ddd567640@gmail.com
+- - **LinkedIn**: [Jun-yong's Profile](https://www.linkedin.com/in/joonyong-lee-3349003b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+
 - **University**: Soonchunhyang University (Information Security)
 
 ---

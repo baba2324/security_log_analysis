@@ -22,8 +22,7 @@
 ### 📈 Analysis Evidence 
 
 
-
-- <img width="729" height="568" alt="image" src="https://github.com/user-attachments/assets/7e08c6d7-fd1d-47c2-90fd-563e6ef34a8a" />
+<img width="989" height="790" alt="177216040110416149775824926598" src="https://github.com/user-attachments/assets/01258c88-c5ff-47a7-8149-1729a65b4f0a" />
 
 
 The results demonstrate that industrial-grade anomaly detection logic can be transferred to security log monitoring systems, achieving stable and high anomaly detection performance.

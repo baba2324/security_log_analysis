@@ -15,8 +15,6 @@
 ## 🔮 Future Work & Goals
 - **Smart Mobility Security**: Planning to extend this anomaly detection logic to **CAN bus and vehicle sensor data**
 - **Cross-Industry Expansion**: Aiming to enhance security for next-generation autonomous systems and global industrial IoT platforms
-
-## 👤 Contact / About Me
  
 ## 👤 Contact / About Me
 - **Industrial AI & Cybersecurity Specialist**

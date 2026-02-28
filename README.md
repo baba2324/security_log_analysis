@@ -4,7 +4,7 @@
 
 # 🛡️ AI-Based Security Log Anomaly Detection
 
-## 📊 Performance Metrics (최신 성과)
+## 📊 Performance Metrics 
 - **Accuracy**: 99.99% (Final system accuracy on CIC-IDS2017 dataset)
 - **F1-Score / Precision / Recall**: Near-perfect performance optimized for industrial-grade security
 

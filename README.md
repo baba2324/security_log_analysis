@@ -7,6 +7,7 @@
 ## 📊 Performance Metrics 
 - **Accuracy**: 99.99% (Final system accuracy on CIC-IDS2017 dataset)
 - **F1-Score / Precision / Recall**: Near-perfect performance optimized for industrial-grade security
+- Evaluated with F1-Score to avoid accuracy paradox due to class imbalance.
 
 ## 🔍 Key Insights
 - **Feature Importance**: Identified **Destination Port** as the most critical feature (e.g., Port 46 linkage)

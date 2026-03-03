@@ -10,10 +10,6 @@
 - Macro F1-Score: 0.99 (balanced performance across attack classes)
 - Evaluated with F1-Score to avoid accuracy paradox due to class imbalance.
 
-## 🔍 Key Insights
-- **Feature Importance**: Identified **Destination Port** as the most critical feature (e.g., Port 46 linkage)
-- **Industrial Logic**: Successfully transferred manufacturing defect inspection logic to cybersecurity log analysis
-
 - 
 <details>
 <summary><b>🔥 🛠️ Challenges & Troubleshooting (Click to Expand)</b></summary>
@@ -38,6 +34,11 @@ The core innovation of this project is **Domain Transfer**—applying manufactur
 * **Solution:** To prove the model's true anomaly detection capability, I evaluated the performance beyond simple accuracy. By focusing on **`F1-Score, Precision, and Recall`**, I validated that the model genuinely detects minority attack classes (like PortScan) without being biased toward the majority class.
 
 </details>
+
+## 🔍 Key Insights
+- **Feature Importance**: Identified **Destination Port** as the most critical feature (e.g., Port 46 linkage)
+- **Industrial Logic**: Successfully transferred manufacturing defect inspection logic to cybersecurity log analysis
+
 
 ## 🔮 Future Work & Goals
 - **Smart Mobility Security**: Planning to extend this anomaly detection logic to **CAN bus and vehicle sensor data**

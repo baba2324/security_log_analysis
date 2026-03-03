@@ -4,12 +4,11 @@
 
 # 🛡️ AI-Based Security Log Anomaly Detection
 
-## 📊 Performance Metrics 
-- **Accuracy**: 99.99% (Final system accuracy on CIC-IDS2017 dataset)
-- **F1-Score / Precision / Recall**: Near-perfect performance optimized for industrial-grade security
-- Macro F1-Score: 0.99 (balanced performance across attack classes)
-- Evaluated with F1-Score to avoid accuracy paradox due to class imbalance.
-
+## 📊 Performance Metrics
+- Accuracy: 99.99%
+- F1-Score / Precision / Recall: ...
+- Macro F1-Score: 0.99
+- Evaluated with F1-Score to avoid accuracy paradox.
 - 
 <details>
 <summary><b>🔥 🛠️ Challenges & Troubleshooting (Click to Expand)</b></summary>

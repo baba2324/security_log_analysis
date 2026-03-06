@@ -2,7 +2,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joonyong-lee-72a392353)
 
-# 🛡️ AI-Based Security Log Anomaly Detection
+# 🛡️ AI-Based Intrusion Detection System (IDS) using Domain Transfer
 
 ## 📊 Performance Metrics
 - Accuracy: 99.99%

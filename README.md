@@ -56,8 +56,64 @@ The core innovation of this project is **Domain Transfer**—applying manufactur
 
 <img width="989" height="790" alt="177216040110416149775824926598" src="https://github.com/user-attachments/assets/01258c88-c5ff-47a7-8149-1729a65b4f0a" />
 <img width="1189" height="1190" alt="download" src="https://github.com/user-attachments/assets/e6c5a027-4efb-4362-bf5f-b9538d3d8118" />
+--- [Step 1] Initial Data Inspection ---
+Data Shape: (286467, 79)
+    Destination Port   Flow Duration   Total Fwd Packets  \
+0                 22         1266342                  41   
+1                 22         1319353                  41   
+2                 22             160                   1   
+3                 22         1303488                  41   
+4              35396              77                   1   
 
+    Total Backward Packets  Total Length of Fwd Packets  \
+0                       44                         2664   
+1                       44                         2664   
+2                        1                            0   
+3                       42                         2728   
+4                        2                            0   
 
+    Total Length of Bwd Packets   Fwd Packet Length Max  \
+0                          6954                     456   
+1                          6954                     456   
+2                             0                       0   
+3                          6634                     456   
+4                             0                       0   
+
+    Fwd Packet Length Min   Fwd Packet Length Mean   Fwd Packet Length Std  \
+0                       0                64.975610              109.864573   
+1                       0                64.975610              109.864573   
+2                       0                 0.000000                0.000000   
+3                       0                66.536585              110.129945   
+4                       0                 0.000000                0.000000   
+
+   ...   min_seg_size_forward  Active Mean   Active Std   Active Max  \
+0  ...                     32          0.0          0.0            0   
+1  ...                     32          0.0          0.0            0   
+2  ...                     32          0.0          0.0            0   
+3  ...                     32          0.0          0.0            0   
+4  ...                     32          0.0          0.0            0   
+
+    Active Min  Idle Mean   Idle Std   Idle Max   Idle Min   Label  
+0            0        0.0        0.0          0          0  BENIGN  
+1            0        0.0        0.0          0          0  BENIGN  
+2            0        0.0        0.0          0          0  BENIGN  
+3            0        0.0        0.0          0          0  BENIGN  
+4            0        0.0        0.0          0          0  BENIGN  
+
+-- [Step 2] Key Evidence Analysis (Feature Importance) ---
+Rank 1: Feature Index 52 (10.99%)
+Rank 2: Feature Index 46 (9.29%)
+Rank 3: Feature Index 6 (8.48%)
+Rank 4: Feature Index 4 (8.38%)
+Rank 5: Feature Index 1 (7.36%)
+Rank 6: Feature Index 24 (7.13%)
+Rank 7: Feature Index 18 (6.99%)
+Rank 8: Feature Index 20 (6.33%)
+Rank 9: Feature Index 39 (6.24%)
+Rank 10: Feature Index 10 (5.58%)
+
+--- [Step 3] Final Detection Result ---
+FINAL AI ACCURACY: 99.99%
 
 The results demonstrate that industrial-grade anomaly detection logic can be transferred to security log monitoring systems, achieving stable and high anomaly detection performance.
 
